@@ -1,1 +1,1 @@
-### Yo! 🤘 I'm Colin and I build stuff.
+👋 I'm Colin, the creator of [StatusGator](StatusGator) and the inventor of the status page aggregator.
